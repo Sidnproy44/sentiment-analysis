@@ -1,0 +1,2 @@
+Simple sentiment analysis on tweets made on tweeter
+we start this by creating two lists of words : happy_words & sad_words
